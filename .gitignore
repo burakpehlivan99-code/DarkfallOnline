@@ -10,3 +10,5 @@ UserSettings/
 *.bundle
 *.so
 *.a
+*.keystore
+.vs/
